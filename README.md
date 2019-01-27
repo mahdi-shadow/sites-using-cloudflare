@@ -53,7 +53,7 @@ for domain in (cat ~/Desktop/alexa_10000.csv)
     end
 end
 ```
-The Alexa scrape, and the Crimeflare dumps were then combined in a single text file, and passed through `sort | uniq`.  I've since accepted several PRs and issues to remove sites that were unaffected from the list.
+The Alexa scrape,and the Crimeflare dumps were then combined in a single text file,and passed through `sort | uniq`. I've since accepted several PRs and issues to remove sites that were unaffected from the list.
 
 Data sources:
  - https://stackshare.io/cloudflare
@@ -1375,3 +1375,4 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [zoomit.ir](http://zoomit.ir)
 - [zurb.com](http://zurb.com)
 - [zwaar.net](http://zwaar.net)
+-[fafait.net](https://fafait.net)
